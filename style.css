@@ -64,14 +64,17 @@ a:hover {
 }
 
 .intro span.highlight {
-	background-color: #333;
-	color: white;
+    text-decoration: underline;
+    font-weight: bold;
+	
 }
 
 .intro span.highlight-red {
-	background-color: darkred;
+    /*background-color: darkred;
 	color: white;
-	transition: 0.3s;
+	transition: 0.3s*/
+    text-decoration: underline;
+	
 }
 
 .intro span.highlight-red:hover {

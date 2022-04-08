@@ -70,9 +70,9 @@ a:hover {
 }
 
 .intro span.highlight-red {
-    /*background-color: darkred;
+    background-color: darkred;
 	color: white;
-	transition: 0.3s*/
+	transition: 0.3s;
     text-decoration: underline;
 	
 }

@@ -11,7 +11,7 @@ span{
 }
 
 img{
-	width: 70px;
+	width: 100px;
 	border-radius: 35px;
 	margin: 10px 15px 0 0;
 }
@@ -73,7 +73,7 @@ a:hover {
     /*background-color: #1A6DBB;*/
 	color: #1A6DBB;
 	transition: 0.3s;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 	
 }
 

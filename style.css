@@ -70,10 +70,10 @@ a:hover {
 }
 
 .intro span.highlight-red {
-    background-color: #1A6DBB;
-	color: white;
+    /*background-color: #1A6DBB;*/
+	color: #1A6DBB;
 	transition: 0.3s;
-    /*text-decoration: underline;*/
+    text-decoration: underline;
 	
 }
 
